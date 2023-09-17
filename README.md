@@ -7,10 +7,10 @@
 5. Explorando Padrões de Projetos na Prática com Java. [Desafio de projeto não realizado]
 6. Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway. [Desafio de projeto não realizado]
 
-## Desafios de Código (0/10)
-1. Equilibrando o Saldo. [Desafio de projeto não realizado]
-2. Organizando seus Ativos. [Desafio de projeto não realizado]
-3. Condicionalmente Rico. [Desafio de projeto não realizado]
+## Desafios de Código (3/10)
+1. Equilibrando o Saldo. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Codigo/Sistema%20Para%20Validacao%20de%20Processo%20Seletivo/)
+2. Organizando seus Ativos. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Codigo/Organizando%20seus%20Ativos/)
+3. Condicionalmente Rico. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Codigo/Condicionalmente%20Rico/)
 4. Juros Compostos. [Desafio de projeto não realizado]
 5. O Grande Deposito. [Desafio de projeto não realizado]
 6. Abrinco Contas. [Desafio de projeto não realizado]
