@@ -11,8 +11,8 @@
 1. Equilibrando o Saldo. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Codigo/Equilibrando%20o%20Saldo/)
 2. Organizando seus Ativos. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Codigo/Organizando%20seus%20Ativos/)
 3. Condicionalmente Rico. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Codigo/Condicionalmente%20Rico/)
-4. Juros Compostos. [Desafio de projeto não realizado]
-5. O Grande Deposito. [Desafio de projeto não realizado]
+4. Juros Compostos. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Codigo/Juros%20Compostos/)
+5. O Grande Deposito. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Codigo/O%20Grande%20Proposito/)
 6. Abrinco Contas. [Desafio de projeto não realizado]
 7. Herança Bancária. [Desafio de projeto não realizado]
 8. Cofres Seguros. [Desafio de projeto não realizado]
