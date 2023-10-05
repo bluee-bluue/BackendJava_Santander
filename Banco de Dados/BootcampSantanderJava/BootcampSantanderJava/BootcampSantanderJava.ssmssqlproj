@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BootcampSantanderJava">
+  <Items>
+    <LogicalFolder Name="Conexões" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="CAIQUE\SQLEXPRESS:CAIQUE\scaiq">
+          <Created>2023-10-05T13:17:39.1907276-03:00</Created>
+          <Type>SQL</Type>
+          <Server>CAIQUE\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Autenticação do Windows</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Consulta</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Consultas" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="1 - Criação do Banco de Dados e das Tabelas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CAIQUE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CAIQUE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 - Criação do Banco de Dados e das Tabelas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2 - Operações CRUD.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CAIQUE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CAIQUE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2 - Operações CRUD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3 - Normalização.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CAIQUE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CAIQUE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3 - Normalização.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4 - Consultas Avançadas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CAIQUE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CAIQUE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4 - Consultas Avançadas.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Diversos" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
