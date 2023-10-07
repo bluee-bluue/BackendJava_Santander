@@ -22,3 +22,14 @@
     * GROUP BY
     * ORDER BY
 
+# Banco de Dados Não Relacionais (NoSQL)
+* Introdução aos Banco de Dados NoSQL
+    * Conceitos Básicos e Estrutura do Banco de Dados Não Relacional
+    * Visão geral fos tipos de NoSQL
+* Introdução ao MongoDB
+    * Modelagem de dados usando documentos
+    * Estrutura de modelagem de dados eficientes e escaláveis
+    * [Formatador JSON](https://jsonformatter.curiousconcept.com/)
+* Operações no MongoDB
+    * Consultas simples
+* Breve apresentação ao Redis
