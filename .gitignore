@@ -1,5 +1,6 @@
 **.vscode/
 **lib/
 **.class
-out/
+**out/
 **.idea/
+**.vs/
