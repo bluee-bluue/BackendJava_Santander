@@ -15,6 +15,6 @@ public class Cartao {
     @Column(unique = true)
     private String numero;
 
-    @Column(name = "limite_adicional", scale = 13, precision = 2)
+    @Column(name = "limite_adicional", precision = 13, scale = 2)
     private BigDecimal limite;
 }

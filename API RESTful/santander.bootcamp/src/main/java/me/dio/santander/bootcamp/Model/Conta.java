@@ -17,9 +17,9 @@ public class Conta {
 
     private String agencia;
 
-    @Column(scale = 13, precision = 2)
+    @Column(precision = 13, scale = 2)
     private BigDecimal balance;
 
-    @Column(name = "limite_disponivel", scale = 13, precision = 2)
+    @Column(name = "limite_disponivel", precision = 13, scale = 2)
     private BigDecimal limite;
 }
