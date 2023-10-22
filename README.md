@@ -1,11 +1,11 @@
 # Santander Bootcamp 2023 - Backend Java
-## Desafios de Projeto (4/6)
+## Desafios de Projeto (6/6)
 1. Contribuindo em um Projeto Open Source no GitHub. [[Repositório]](https://github.com/bluee-bluue/dio-lab-open-source)
 2. Simulando uma Conta Bancária Através do terminal/Console. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Projeto/src/SimulandoUmaContaBancaria)
 3. Criando um Pequeno Sistema para Validação de Processo Seletivo. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Projeto/src/SistemaParaValidacaoDeProcessoSeletivo/)
 4. Orientação a Objetos e UML: Diagramação de Classes do iPhone. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Projeto/src/DiagramacaoDeClassesDoIphone/)
 5. Explorando Padrões de Projetos na Prática com Java. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Projeto/src/Explorando%20Padr%C3%B5es%20de%20Projetos%20na%20Pr%C3%A1tica%20com%20Java/GerenciamentoDeEstoque_SemSpring/src)
-6. Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Projeto/src/Explorando%20Padr%C3%B5es%20de%20Projetos%20na%20Pr%C3%A1tica%20com%20Java/PadroesDeProjeto_ComSpring/src)
+6. Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Projeto/src/todolist/src)
 
 ## Desafios de Código (10/10)
 1. Equilibrando o Saldo. [[Repositório]](https://github.com/bluee-bluue/BackendJava_Santander/tree/main/Desafios%20de%20Codigo/src/EquilibrandoOSaldo/)
